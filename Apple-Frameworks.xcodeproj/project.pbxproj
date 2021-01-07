@@ -14,6 +14,7 @@
 		4C189D90258FF45400FA7652 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C189D8F258FF45400FA7652 /* Assets.xcassets */; };
 		4C189D93258FF45400FA7652 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C189D92258FF45400FA7652 /* Preview Assets.xcassets */; };
 		4C189D9C258FF4AF00FA7652 /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C189D9B258FF4AF00FA7652 /* Framework.swift */; };
+		4CE69BC925A7521B00F8BA45 /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE69BC825A7521B00F8BA45 /* FrameworkGridViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4C189D92258FF45400FA7652 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4C189D94258FF45400FA7652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4C189D9B258FF4AF00FA7652 /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
+		4CE69BC825A7521B00F8BA45 /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				4C189D8D258FF44A00FA7652 /* FrameworkGridView.swift */,
 				4C189D9B258FF4AF00FA7652 /* Framework.swift */,
 				4C0B4ED025A218EA00D319E1 /* FrameworkDetailView.swift */,
+				4CE69BC825A7521B00F8BA45 /* FrameworkGridViewModel.swift */,
 				4C0B4ED425A2393800D319E1 /* AFButton.swift */,
 				4C189D8F258FF45400FA7652 /* Assets.xcassets */,
 				4C189D94258FF45400FA7652 /* Info.plist */,
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CE69BC925A7521B00F8BA45 /* FrameworkGridViewModel.swift in Sources */,
 				4C0B4ED125A218EA00D319E1 /* FrameworkDetailView.swift in Sources */,
 				4C189D8E258FF44A00FA7652 /* FrameworkGridView.swift in Sources */,
 				4C189D9C258FF4AF00FA7652 /* Framework.swift in Sources */,
