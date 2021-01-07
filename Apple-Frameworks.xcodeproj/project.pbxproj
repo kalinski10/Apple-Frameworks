@@ -15,6 +15,7 @@
 		4C189D93258FF45400FA7652 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C189D92258FF45400FA7652 /* Preview Assets.xcassets */; };
 		4C189D9C258FF4AF00FA7652 /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C189D9B258FF4AF00FA7652 /* Framework.swift */; };
 		4CE69BC925A7521B00F8BA45 /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE69BC825A7521B00F8BA45 /* FrameworkGridViewModel.swift */; };
+		4CE69BCE25A77AA400F8BA45 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE69BCD25A77AA400F8BA45 /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4C189D94258FF45400FA7652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4C189D9B258FF4AF00FA7652 /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
 		4CE69BC825A7521B00F8BA45 /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
+		4CE69BCD25A77AA400F8BA45 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				4C189D8F258FF45400FA7652 /* Assets.xcassets */,
 				4C189D94258FF45400FA7652 /* Info.plist */,
 				4C189D91258FF45400FA7652 /* Preview Content */,
+				4CE69BCD25A77AA400F8BA45 /* SafariView.swift */,
 			);
 			path = "Apple-Frameworks";
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				4C189D9C258FF4AF00FA7652 /* Framework.swift in Sources */,
 				4C0B4ED525A2393800D319E1 /* AFButton.swift in Sources */,
 				4C189D8C258FF44A00FA7652 /* Apple_FrameworksApp.swift in Sources */,
+				4CE69BCE25A77AA400F8BA45 /* SafariView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
